@@ -1,6 +1,6 @@
 # dados_demograficos_mg
  
-A```markdown
+
 # 🚀 Geocoding Automático com Python e Google Maps API
 
 Bem-vindo ao repositório **Geocoding Automático**! Este projeto é uma solução rápida e eficiente para obter informações detalhadas de localização, como bairro, CEP, latitude e longitude, a partir de um endereço. Utilizando a API do Google Maps, este script automatiza o processo de geocodificação para um grande número de endereços.
