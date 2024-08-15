@@ -69,13 +69,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um *pull request
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 💬 Contato
-
-Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através de [seuemail@exemplo.com](mailto:seuemail@exemplo.com).
-
 ---
-
-Feito com ❤️ por [Seu Nome](https://github.com/seuusuario).
-```
-
-Esse `README.md` deve fornecer uma boa visão geral do projeto e como utilizá-lo, além de incentivar contribuições e engajamento.
